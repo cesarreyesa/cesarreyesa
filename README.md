@@ -1,4 +1,17 @@
-Hi 👋 My name is Cesar Reyes ============================  Tech Lead / Backend Developer -----------------------------  Software enthusiast bla bla. bla  * 🌍  I'm based in Cancun * ✉️  You can contact me at [cesarreyesa@gmail.com](mailto:cesarreyesa@gmail.com) * 🚀  I'm currently working on [Revenatium](http://revenatium.com) * 🧠  I'm learning CDK, GraalVM * ⚡  I enjoy listening music, playing video games (mostly FIFA and Halo)
+Hi 👋 My name is Cesar Reyes 
+============================  
+
+Tech Lead / Backend Developer 
+
+-----------------------------  
+
+Software enthusiast bla bla. bla
+
+* 🌍  I'm based in Cancun 
+* * ✉️  You can contact me at [cesarreyesa@gmail.com](mailto:cesarreyesa@gmail.com) 
+* * 🚀  I'm currently working on [Revenatium](http://revenatium.com) 
+* * 🧠  I'm learning CDK, GraalVM 
+* * ⚡  I enjoy listening music, playing video games (mostly FIFA and Halo)
 
 ### Skills
 
